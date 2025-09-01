@@ -21,5 +21,5 @@ This project presents an end-to-end analysis of global COVID-19 data to identify
 - Identified data inconsistencies and handled NULL values for better reporting.
 
 ## 📷 Sample Dashboard
-![COVID Dashboard Screenshot] (Screenshot 2025-08-11 191144.png)
+![COVID Dashboard Screenshot] (Covid_dashboard.png)
 
