@@ -20,6 +20,7 @@ This project presents an end-to-end analysis of global COVID-19 data to identify
 - Clear spikes in cases corresponded to low vaccination periods.
 - Identified data inconsistencies and handled NULL values for better reporting.
 
-## 📷 Sample Dashboard
-![COVID Dashboard Screenshot] (Covid_dashboard.png)
+## 📷 Sample Visualizations
+![Covid Dashboard](Covid_dashboard.png)
+
 
